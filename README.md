@@ -1,7 +1,7 @@
-# Juego para aprender a usar el Sistema de Numeración Decimal 2
+# Juego para aprender a usar el Sistema de Numeración Decimal 3
 
 
-![Juego del Sistema Numérico Decimal](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/SND/J02SND.jpg)
+![Juego de la forma polinómica de un número natural](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/05JSND/J03SND.jpg)
 
 Dentro del blog: https://axelcotongutierrez.github.io/learningmathematicas/
 
@@ -11,14 +11,12 @@ Juego para ESO, ESPA o ESPAD para aprender a usar el Sistema Numérico Decimal
 
 Puedes probar el juego en esta url:
 
-https://github.com/AxelCotonGutierrez/Juego-de-las-Cifras
+https://github.com/AxelCotonGutierrez/
 
-¡Prepárate para una emocionante aventura de aprendizaje en nuestro juego sobre el Sistema de Numeración Decimal!
+Prepárate para una emocionante aventura de aprendizaje mientras exploras el fascinante mundo de los números. En este desafío, te desafiamos a dominar el sistema de numeración decimal en su forma polinómica. 
 
-En este desafío, tendrás la oportunidad de poner a prueba y mejorar tu dominio sobre el sistema numérico que utilizamos en la vida cotidiana. Se te harán una serie de preguntas donde tendrás que responder con precisión a la pregunta ¿Cuál es la cifra de las ...?
+Nuestro juego ha sido diseñado para adaptarse a tu nivel de habilidad. Comenzarás en el primer nivel, donde resolverás preguntas sobre coeficientes hasta las unidades de millar. A medida que avances y ganes confianza, subirás de nivel, ampliando tus conocimientos para abarcar cifras hasta las unidades de millón, millardo e incluso billón. Recuerda, si estás en la escuela primaria, te recomendamos comenzar por el primer nivel.
 
-Nuestro juego está diseñado para adaptarse a tu nivel de habilidad. Comenzarás en el primer nivel, donde responderás preguntas hasta las unidades de millar. A medida que adquieras confianza y destreza, avanzarás a niveles superiores, ampliando tus conocimientos hasta las unidades de millón, millardo ¡e incluso billón! En Primaria no se recomienda pasar del primer nivel.
+La mejor parte es que no hay límite en la cantidad de preguntas que puedes responder. Juega tanto como desees, hasta que te sientas completamente satisfecho o hasta que domines el nivel que necesitas.
 
-Lo mejor de todo es que no hay límite en la cantidad de preguntas que puedes responder. Juega tanto como desees, hasta que te sientas completamente satisfecho o hasta que domines el nivel que necesitas.
-
-Así que, ¿estás listo para sumergirte en este desafío y convertirte en un experto en el Juego de las Cifras? ¡Diviértete explorando, aprendiendo y superando tus propios límites! ¡El mundo de los números te espera!
+Así que, ¿estás preparado para sumergirte en este desafiante mundo polinómico de las cifras? Diviértete explorando, aprendiendo y superando tus propios límites. ¡El fascinante universo de las matemáticas te espera!
