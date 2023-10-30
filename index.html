@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juego de las Cifras</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="icon.png" type="image/png">
+</head>
+<body>
+    <header><a href="https://axelcotongutierrez.github.io/learningmathematicas/">
+        <img src="https://axelcotongutierrez.github.io/learningmathematicas/assets/images//top.jpg" alt="Blog Mathematica" style="display: block; margin: 0 auto; width: 100%; height: auto;">
+      </a></header>
+    <h1>JUEGO DE LAS CIFRAS</h1>
+    <div id="options">
+        <span class="textosuperior">Elige el número máximo de unidades:
+            <br>
+            <label>
+                <input type="radio" name="maxZeros" value="3" checked> Millares
+            </label>
+            <label>
+                <input type="radio" name="maxZeros" value="6"> Millones
+            </label>
+            <label>
+                <input type="radio" name="maxZeros" value="9"> Millardos
+            </label>
+            <label>
+                <input type="radio" name="maxZeros" value="12"> Billones
+            </label>
+        </span>
+        <br>
+        <span class="textosuperior">Elige la representación de potencias de 10:
+            <br>
+            <label>
+                <input type="radio" name="powerRepresentation" value="natural" checked> Números Naturales
+            </label>
+            <label>
+                <input type="radio" name="powerRepresentation" value="power10"> Potencias de 10
+            </label>
+        </span>
+    </div>
+    <div class="container2">
+        <span class="textosuperior">
+            <div id="question">
+                <span id="question-text"></span>
+            </div>
+        </span>
+    </div>
+    <div class="container">
+        <div id="answer">
+            <p><span class="textosuperior"><label for="user-answer">Respuesta:</label></span></p>
+            <p id="user-answer-container"></p> <!-- Contenedor para los inputs de respuesta -->
+            <button class="guess-button" id="check-answer">Comprobar</button>
+        </div>
+        <div id="result"></div>
+        <button class="guess-button"  id="next-question">Siguiente Pregunta</button>
+    </div>
+
+    <script src="script.js"></script>
+    <br>
+    <br>
+    <br>
+</body>
+</html>

@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito';
+}
+
+body {
+  max-height: 80%;
+  text-align: center;
+  color: #0c4fe1;
+}
+
+h1 {
+  color: rgb(10, 10, 10);
+  padding: 50px;
+  font-size: 40px;
+}
+
+.container {
+  background-color: #ddff62;
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  border: 3px solid #000;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  padding: 50px 0;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden; /* Evitar desbordamiento horizontal en dispositivos móviles */
+}
+
+.container2 {
+  background-color: #f0f3e9;
+  max-width: 80%;
+  margin: auto;
+  border: 3px solid #000;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  padding: 50px 0;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden; /* Evitar desbordamiento horizontal en dispositivos móviles */
+}
+
+
+.textosuperior {
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+#question {
+    margin-bottom: 30px;
+}
+
+label {
+    font-weight: bold;
+}
+
+#answer {
+    margin-bottom: 30px;
+}
+#buttons-container {
+  margin-top: 10px;
+}
+
+.guess-button {
+  background-color: #4285f4;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  white-space: nowrap; /* Evita que el texto se divida en múltiples líneas */
+}
+
+.input-digit {
+  width: 5%; /* Ajusta el ancho según tus preferencias */
+  padding: 10px;
+  border: 2px solid #000000;
+  border-radius: 5px;
+  font-size: 15px;
+  text-align: center;
+  margin: 2px; /* Agrega margen entre los input */
+}
+
+#result {
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: green;
+}
+
+@media (max-width: 768px) {
+  .container,
+  .container2 {
+    max-width: 90%; /* Ancho completo en dispositivos móviles */
+  }
+
+
+  input[type="text"] {
+    width: 80%; /* Ancho máximo del 90% en dispositivos móviles */
+  }
+  .textosuperior {
+    font-size: 25px; /* Tamaño de texto superior en dispositivos móviles */
+  }
+}
