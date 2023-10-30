@@ -1,3 +1,5 @@
+// Axel Cotón Gutiérrez Copyright 2023
+
 // Variables globales para el número máximo de ceros y representación de potencias de 10
 let maxZeros = 3;
 let naturalRepresentation = true; // Variable para representación de potencias de 10 como números naturales
