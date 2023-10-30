@@ -11,7 +11,7 @@ Juego para ESO, ESPA o ESPAD para aprender a usar el Sistema Numérico Decimal
 
 Puedes probar el juego en esta url:
 
-https://github.com/AxelCotonGutierrez/
+https://axelcotongutierrez.github.io/Juego-de-la-forma-polin-mica/
 
 Prepárate para una emocionante aventura de aprendizaje mientras exploras el fascinante mundo de los números. En este desafío, te desafiamos a dominar el sistema de numeración decimal en su forma polinómica. 
 
